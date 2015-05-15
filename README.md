@@ -1,2 +1,2 @@
 # hello-world
-Just to try
+Just to try to do something valued
